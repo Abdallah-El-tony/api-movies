@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 400px;
+  pointer-events: none;
+}
+.movieImg {
+  height:500px;
+}
+.movieImg img {
+  width:100%;
+  object-fit: cover;
+  height:100%;
+}
+
+@media (max-width:992px) {
+  .movieImg {
+    height:300px !important;
+  }
+}
