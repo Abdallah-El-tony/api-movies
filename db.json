@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Mouse",
+      "price": 70,
+      "quantity": 100,
+      "hasDiscount": false
+    },
+    {
+      "id": 2,
+      "productName": "Book",
+      "price": 50,
+      "quantity": 1000,
+      "hasDiscount": false
+    },
+    {
+      "id": 4,
+      "productName": "Watch",
+      "price": 5000,
+      "quantity": 400,
+      "hasDiscount": true
+    },
+    {
+      "productQuantity": "100",
+      "id": 5
+    },
+    {
+      "productQuantity": "sd",
+      "id": 6
+    }
+  ],
+  "movies": [
+    {
+      "id": 5,
+      "movie": "Abdullah",
+      "rating": 9,
+      "image": "https://www.bestmovieposters.co.uk/wp-content/uploads/2019/01/AQ5p5sQx.jpeg",
+      "description": "The Lord of the Rings: The Return of the King is a 2003 epic fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh"
+    },
+    {
+      "id": 7,
+      "movie": "Fight Club",
+      "rating": 8.8,
+      "image": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2023/02/IMG_0882-scaled.jpeg",
+      "description": "Fight Club: Directed by David Fincher. With Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier. An insomniac office worker and a devil-may-care soap maker ...    "
+    },
+    {
+      "movie": "The Good Father",
+      "rating": "5.5",
+      "description": "The Good Father: The Martin MacNeill Story ... Based on a true story, The Good Father follows Dr. MacNeill (Tom Everett.\n",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2OTM3OTg1MF5BMl5BanBnXkFtZTcwMjg0OTkyMQ@@._V1_FMjpg_UX1000_.jpg",
+      "id": 11
+    },
+    {
+      "movie": "Forrest Gump",
+      "rating": "9.2",
+      "description": "High-quality Forrest Gump Running Greeting Cards designed and sold by artists. Get up to 35% off. Shop unique cards for Birthdays, Anniversaries, ...\n",
+      "image": "https://images.fineartamerica.com/images-medium-large-5/whippet-art--forrest-gump-movie-poster-sandra-sij.jpg",
+      "id": 12
+    },
+    {
+      "movie": "The Shawshank Redemption",
+      "rating": "9",
+      "description": "High-quality Shawshank Redemption Greeting Cards designed and sold by artists. Get up to 35% off. ... The Shawshank Movie Redemption Greeting Card.\n",
+      "image": "https://www.picclickimg.com/V1gAAOSwsNFkprQT/NEW-The-Shawshank-Redemption-DVD-1994-Collectors-Pack.webp",
+      "id": 13
+    },
+    {
+      "movie": "The Dark Knight",
+      "rating": "6",
+      "description": "DC Comics Movie - The Dark Knight - The Joker with Batman Playing Card Wall Poster with Push Pins ; Date First Available: 6 August 2022 ; Warranty & Support.\n",
+      "image": "https://m.media-amazon.com/images/I/81U-g6GkeeL._AC_UF894,1000_QL80_.jpg",
+      "id": 14
+    },
+    {
+      "movie": "The Matrix",
+      "rating": "8.7",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX500_CR0,0,500,500_AL_.jpg",
+      "id": 15
+    },
+    {
+      "movie": "Seven Samurai",
+      "rating": "8.6",
+      "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NTI2MzExMl5BMl5BanBnXkFtZTgwMzM2OTE4MzE@._V1_UX500_CR0,0,500,500_AL_.jpg",
+      "id": 16
+    }
+  ]
+}
